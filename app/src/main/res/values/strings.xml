@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wiguna Cinema Tickets</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="tentang">Wiguna Cinema Tickets adalah Final Project Untuk Indonesia Android Kejar</string>
+    <string name="sinopsis">Film 1 adalah Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat.</string>
+    <string name="sinopsis1">Film 2 adalah Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat.</string>
+    <string name="sinopsis2">Film 3 adalah Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat.</string>
+
+</resources>
